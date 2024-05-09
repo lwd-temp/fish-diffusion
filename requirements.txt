@@ -95,7 +95,7 @@ tensorboard-plugin-wit==1.8.1
 threadpoolctl==3.1.0
 tifffile==2022.10.10
 torchcrepe==0.0.17
-tqdm==4.64.1
+tqdm==4.66.3
 traitlets==5.5.0
 typeguard==2.13.3
 typing_extensions==4.4.0
